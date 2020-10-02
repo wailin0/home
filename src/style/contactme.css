@@ -1,0 +1,16 @@
+.section-contact {
+    background: url('https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601609311/wailin/page/bg3_c05t6c.jpg');
+}
+
+.contact-box, .title4{
+    color: white;
+}
+
+.form-input {
+    background-color: transparent !important;
+    color: white !important;
+}
+
+button:disabled {
+    cursor: not-allowed;
+}

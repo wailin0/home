@@ -1,0 +1,199 @@
+
+
+.responsive-image {
+    width: 100%;
+}
+
+
+
+/* ==========================================================
+! >> General
+========================================================== */
+html {
+    background: #e9e9e9;
+}
+body {
+    font-family: 'PT Sans', sans-serif;
+    -webkit-font-smoothing: subpixel-antialiased;
+    background: #fafafa;
+}
+.section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.col-no-padding {
+    padding: 0 !important;
+}
+.body-boxed {
+    max-width: 1280px;
+    margin: 0 auto;
+    background: #fafafa;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.bdw-wrapper {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.bdw-wrapper:before {
+    content: '';
+    display: block;
+    height: 3px;
+    width: 80px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    background: #09afad;
+    opacity: 0.8;
+}
+.bdw-wrapper:after {
+    content: '';
+    display: block;
+    height: 4px;
+    width: 80px;
+    margin: 0 auto;
+    margin-top: 20px;
+    background: #09afad;
+    opacity: 0.8;
+}
+.bdw-wrapper-negative:before,
+.bdw-wrapper-negative:after {
+    background: #ffffff;
+}
+/* ==========================================================
+! >> Typography
+========================================================== */
+
+.title1 {
+    color: #031634;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+    margin-bottom: 20px;
+}
+.title1:first-child {
+    margin-top: 0!important;
+}
+.title2 {
+    color: #031634;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.title2:first-child {
+    margin-top: 0!important;
+}
+.title4 {
+    color: #031634;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 7px;
+}
+.title4:first-child {
+    margin-top: 0!important;
+}
+.title4:first-child {
+    margin-top: 0!important;
+}
+.title-of-section {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 60px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #ffffff;
+    display: inline-block;
+    padding: 5px 20px;
+    padding-bottom: 3px;
+    background: #09afad;
+    font-size: 48px;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+}
+.title-of-section.title-border:after {
+    content: '';
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+p {
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 22px;
+}
+
+/* ==========================================================
+! >> Buttons
+========================================================== */
+.btn {
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    background-color: #ccc;
+    margin-bottom: 8px;
+}
+.btn-default {
+    border: 0;
+    background: #da222b;
+    color: #ffffff;
+    padding: 15px 30px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.btn-default:hover {
+    background: #b80009;
+    color: #ffffff;
+}
+
+
+/* ==========================================================
+! >> Forms and Inputs
+========================================================== */
+.form-control {
+    width: 100%!important;
+    border-radius: 6px;
+    -moz-border-radius: 6px;
+    -webkit-border-radius: 6px;
+    height: 50px;
+    font-size: 14px;
+    color: #111;
+    margin-bottom: 5px;
+    border: 2px solid #ffffff;
+    font-family: 'PT Sans', sans-serif;
+    background-color: transparent;
+    color: #ffffff;
+    font-weight: bold;
+}
+textarea.form-control {
+    min-height: 100px;
+}
+textarea.textarea2 {
+    height: 115px!important;
+}
+.btn-form {
+    width: 100%;
+    height: 50px;
+}
+
+/* ==========================================================
+! Pages: General
+========================================================== */
+.section-title {
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background: #031634;
+    color: #ffffff;
+}
+.padding-box {
+    padding: 20px;
+}
+.contrast {
+    background: #f2f2f2;
+}
+.contrast-box {
+    background: #e1e1e1;
+    padding: 20px;
+    border-radius: 8px;
+    -moz-border-radius: 8px;
+    -webkit-border-radius: 8px;
+}

@@ -1,0 +1,17 @@
+.section-about {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.section-about .title2 {
+    border-bottom: 1px dotted #ccc;
+    padding-bottom: 4px;
+    text-transform: uppercase;
+}
+
+.section-about .title-of-section {
+    margin-bottom: 10px;
+}
+
