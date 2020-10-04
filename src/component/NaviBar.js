@@ -8,6 +8,7 @@ const Navibar = () => {
         <>
             <header id="header">
                 <Navbar bg="light" expand="lg" fixed="top" >
+                    <Navbar.Brand href="#home">WLH</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
                     <Navbar.Collapse id="basic-navbar-nav">
                         <Nav className="mx-auto">

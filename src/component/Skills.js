@@ -63,6 +63,11 @@ const Skills = () => {
                             </div>
                             <div className="col-sm-3">
                                 <img
+                                    src="https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601798806/wailin/skills/expressjs_whf5yl.svg"
+                                    alt="" className="lang-image" width="200" height="150"/>
+                            </div>
+                            <div className="col-sm-3">
+                                <img
                                     src="https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601608911/wailin/skills/docker_duiklv.svg"
                                     alt="" className="lang-image" width="160" height="150"/>
                             </div>

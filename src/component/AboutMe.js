@@ -10,18 +10,18 @@ const AboutMe = () => {
                 </div>
                 <div className="container about-container">
                     <div className="row contrast">
-                        <div className="col-sm-6 col-no-padding">
+                        <div className="col-sm-4 col-no-padding">
                             <div className="about-picture" id="about-picture">
-                                <img src="https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601609314/wailin/page/about-image_ac2bb7.jpg" alt="" className="responsive-image"/>
+                                <img src="https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601609314/wailin/page/about-image_ac2bb7.jpg" alt="" className="responsive-image" />
                             </div>
                         </div>
                         <div className="col-sm-6">
                             <div className="padding-box">
                                 <h1 className="title2">Who i am</h1>
                                 <p>
-                                    Hi I'm a web developer who specialized in both frontend, backend and a little bit of
+                                    Hi I'm a software developer who specialized in both frontend, backend and a little bit of
                                     DevOps.
-                                    Most of the time I'm busy creating my personal side projects and helping others with
+                                    Most of the time I'm busy learning new tools, creating projects or helping others with
                                     their
                                     problems.
                                 </p>
