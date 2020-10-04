@@ -12,7 +12,7 @@ const AboutMe = () => {
                     <div className="row contrast">
                         <div className="col-sm-4 col-no-padding">
                             <div className="about-picture" id="about-picture">
-                                <img src="https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601609314/wailin/page/about-image_ac2bb7.jpg" alt="" className="responsive-image" />
+                                <img src="https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601703654/wailin/page/about-image_ac2bb7.jpg" alt="" className="responsive-image" />
                             </div>
                         </div>
                         <div className="col-sm-6">

@@ -8,7 +8,7 @@ const Home = () => {
                  style={{backgroundImage: "url('https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601609311/wailin/page/bg2_gsn6bh.jpg')"}}>
                 <div className="container">
                     <div className="profile-pic">
-                        <img src="https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601608954/wailin/wlh_v8hy6m.jpg"
+                        <img src="https://res.cloudinary.com/dt4ob4b4c/image/upload/v1601820096/wailin/wlh_v8hy6m_ssha1d.jpg"
                              alt=""/>
                     </div>
                     <h1 className="title1 mini-hero-title"><strong>Wai Lin Htet</strong></h1>
