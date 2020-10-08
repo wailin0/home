@@ -1,0 +1,12 @@
+
+
+.secondary-footer {
+    background: rgba(42, 74, 112, 1.0);
+    background: -webkit-linear-gradient(bottom, rgba(42, 74, 112, 1.0), rgba(156, 97, 98, 1.0));
+    background: -moz-linear-gradient(bottom, rgba(42, 74, 112, 1.0), rgba(156, 97, 98, 1.0));
+    background: linear-gradient(to top, rgba(42, 74, 112, 1.0), rgba(156, 97, 98, 1.0));
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+
