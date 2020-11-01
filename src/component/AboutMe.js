@@ -20,9 +20,9 @@ const AboutMe = () => {
                                 <h1 className="title2">Who i am</h1>
                                 <p>
                                     Hi I'm a software developer who specialized in both frontend, backend. I'm a passionate programmer who interested in new tech.
-                                    Most of the time I'm busy learning new tools, creating projects or helping others with
+                                    Most of the time I'm busy learning new tools, executing new project idea or helping others with
                                     their
-                                    problems.
+                                    problems. 
                                 </p>
                                 <a href="https://drive.google.com/file/d/1K9swm8TDlF4BJoM2KJaoRUb4egp47eL-/view?usp=sharing">
                                 <button className="btn btn-outline-dark">
