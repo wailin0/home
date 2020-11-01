@@ -19,7 +19,7 @@ const AboutMe = () => {
                             <div className="padding-box">
                                 <h1 className="title2">Who i am</h1>
                                 <p>
-                                    Hi I'm a software developer who specialized in both frontend, backend. I'm a passionate programmer who interested in new tech.
+                                    Hi I'm a software developer who specialized in both frontend, backend. I'm a passionate programmer who's always exploring new technology.
                                     Most of the time I'm busy learning new tools, executing new project idea or helping others with
                                     their
                                     problems. 
